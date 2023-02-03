@@ -1,8 +1,8 @@
 package OK;
 
-public class teamCode {
+public class teamCode2 {
 
-	public teamCode() {
+	public teamCode2() {
 		// TODO Auto-generated constructor stub
 	}
 
